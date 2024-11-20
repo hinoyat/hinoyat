@@ -9,7 +9,7 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/hhwj2280)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hinoyat&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hhwj2280&theme=dracula)](https://git.io/streak-stats)
 </div>
 
 ## 🚀 Tech Stack 
