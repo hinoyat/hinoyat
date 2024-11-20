@@ -28,7 +28,7 @@
 
   <h3>💻 Backend Power</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,Django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,django" />
   </p>
 
   <h3>⚡ Database & Tools</h3>
