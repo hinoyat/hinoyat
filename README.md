@@ -1,37 +1,69 @@
-# 👋 Hi there, I'm [Hyeon Ho Knag]!
+# 🌈 안녕하세요, 강현호입니다! ✨
 
-나중에 여기에 소개 해야지
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hyeon%20Ho%20Kang&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</div>
 
-## 🎯 Algorithm Stats
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/hhwj2280)
+## 🎮 Algorithm Master in Progress
+<div align="center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/hhwj2280)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hinoyat&theme=dracula)](https://git.io/streak-stats)
+</div>
 
-## 🔧 Technologies & Tools
-- 🖥️ **Frontend**: Vue.js, HTML, CSS, JavaScript  
-  ![Frontend](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-  ![Frontend](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  ![Frontend](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Frontend](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- 🖧 **Backend**: Node.js, Python
-  ![Backend](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Backend](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- 📚 **Database**: MySQL  
-  ![Database](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ⚙️ **Tools**: Git
-  ![Tools](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## 🚀 Tech Stack 
 
-## 🌱 Current Learning Focus:
-- Deep Learning with TensorFlow
-- WebAssembly
+<div align="center">
+  
+### 🎨 Frontend
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhwj2280b&show_icons=true&theme=radical)
+### 💻 Backend
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-## 🌍 Social & Platforms
-- [Solved.ac](https://solved.ac/hhwj2280)
+### 📦 Database & Tools
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
-## 🐱 GitHub Animals
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hinoyat}" alt="GitHub Animals"/>
-</a>
+## 🌱 Currently Growing With...
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white"/>
+</div>
 
-## 💬 Let's Connect!
+## 🎯 GitHub Stats
+<div align="center">
+  
+  ![Hyeon Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinoyat&show_icons=true&theme=radical)
+  
+</div>
+
+## 🐱 My GitHub Animals
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/{hinoyat}" alt="GitHub Animals"/>
+  </a>
+</div>
+
+## 💌 Let's Connect!
+<div align="center">
+  <a href="https://solved.ac/hhwj2280">
+    <img src="https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhinoyat&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
