@@ -18,7 +18,11 @@
 </div>
 
 <h2 align="center">💫 Tech Universe</h2>
-
+<div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px;">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{hinoyat}"/>
+</a>
+</div>
 <div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px;">
 
   <h3>🎨 Frontend Artistry</h3>
