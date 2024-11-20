@@ -1,12 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=200&section=header&text=Hi%20there,%20I'm%20Hyeon%20Ho%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=2A2A2A"/>
 </div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=200&section=header&text=Hi%20there,%20I'm%20Hyeon%20Ho%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=2A2A2A"/>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D766&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;오리주물럭간장게장방어연어불고기" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D766&center=true&vCenter=true&random=false&width=500&lines=오리주물럭간장게장방어연어불고기" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,7 +11,7 @@
 
 <div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/hhwj2280)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/profile/hhwj2280)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hhwj2280&theme=dark)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hinoyat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
