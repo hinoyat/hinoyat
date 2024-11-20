@@ -28,12 +28,12 @@
 
   <h3>💻 Backend Power</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,Django" />
   </p>
 
   <h3>⚡ Database & Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </p>
 </div>
 
