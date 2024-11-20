@@ -64,7 +64,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center" style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 10px;">
-  <a href="https://solved.ac/hhwj2280">
+  <a href="https://solved.ac/profile/hhwj2280">
     <img src="https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white"/>
   </a>
 </div>
