@@ -24,7 +24,7 @@
 - WebAssembly
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devxb&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhwj2280b&show_icons=true&theme=radical)
 
 ## 🌍 Social & Platforms
 - [Solved.ac](https://solved.ac/hhwj2280)
