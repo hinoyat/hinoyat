@@ -45,7 +45,7 @@
 
 <div align="center" style="background: linear-gradient(to right, #000428, #004e92); padding: 20px; border-radius: 10px;">
   <p>
-    <img src="https://skillicons.dev/icons?i=tensorflow,wasm" />
+    <img src="https://skillicons.dev/icons?i=" />
   </p>
 </div>
 
@@ -66,10 +66,6 @@
   <a href="https://solved.ac/profile/hhwj2280">
     <img src="https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhinoyat&count_bg=%237B1E7A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
 </div>
 
 <div align="center">
