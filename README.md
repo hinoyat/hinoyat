@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,100:FAD0C4&height=200&section=header&text=Hi%20there,%20I'm%20Hyeon%20Ho%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=2A2A2A"/>
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D766&center=true&vCenter=true&random=false&width=500&lines=오리주물럭간장게장방어연어불고기" alt="Typing SVG" />
-</div>
 
 <br>
 
