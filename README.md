@@ -11,7 +11,7 @@
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhwj2280)](https://solved.ac/profile/hhwj2280)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hhwj2280&theme=dark)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hinoyat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hinoyat&theme=dark&border_radius=10&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
 
 <h2 align="center">💫 Tech Universe</h2>
@@ -24,12 +24,12 @@
 
   <h3>🎨 Frontend Artistry</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=vue,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=vue,react,html,css,js" />
   </p>
 
   <h3>💻 Backend Power</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,django" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,django,spring" />
   </p>
 
   <h3>⚡ Database & Tools</h3>
@@ -38,13 +38,6 @@
   </p>
 </div>
 
-<h2 align="center">🌱 Growing Arsenal</h2>
-
-<div align="center" style="background: linear-gradient(to right, #000428, #004e92); padding: 20px; border-radius: 10px;">
-  <p>
-    <img src="https://skillicons.dev/icons?i=" />
-  </p>
-</div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
