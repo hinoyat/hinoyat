@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">🏆 Algorithm Master in Progress</h2>
+<h2 align="center">🏆 Algorithm</h2>
 
 <div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
   
