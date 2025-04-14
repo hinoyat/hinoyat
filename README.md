@@ -30,14 +30,25 @@
 
   <h3>💻 Backend Power</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,java,nodejs,django,spring" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,django,spring,rabbitmq" />
   </p>
 
   <h3>⚡ Database & Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,elasticsearch,redis" />
+  </p>
+  
+  <h3>🛠️ Developer Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven" />
+  </p>
+  
+  <h3>☁️ Cloud & Infrastructure</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws" />
   </p>
 </div>
+
 
 
 <h2 align="center">📊 GitHub Analytics</h2>
