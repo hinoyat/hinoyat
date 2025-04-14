@@ -40,7 +40,7 @@
   
   <h3>🛠️ Developer Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven" />
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,gradle,maven" />
   </p>
   
   <h3>☁️ Cloud & Infrastructure</h3>
